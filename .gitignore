@@ -1,0 +1,7 @@
+env
+generated
+keys
+outputs
+templates/*_prepared.png
+*.docx
+.idea
